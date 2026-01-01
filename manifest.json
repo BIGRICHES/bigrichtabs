@@ -1,0 +1,18 @@
+{
+  "name": "bigrichtabs.com",
+  "short_name": "bigrichtabs.com",
+  "description": "Personal chord sheet and guitar tab viewer",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fafaf9",
+  "theme_color": "#000000",
+  "categories": ["music", "utilities"],
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
